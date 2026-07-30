@@ -19,10 +19,6 @@
   "r2_buckets": [
     {
       "binding": "MAIL_BUCKET"
-    },
-    {
-      "binding": "BACKUP_BUCKET",
-      "bucket_name": "omni-mail-backups"
     }
   ],
   "workflows": [
